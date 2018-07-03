@@ -1,1 +1,1 @@
-Today is <?php echo date('l js \of F Y h:i:s A') ?>
+Today is <?php echo date('l js \of F Y h:i:s A'); ?>
